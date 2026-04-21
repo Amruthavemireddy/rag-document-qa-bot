@@ -5,3 +5,4 @@ openai
 tiktoken
 faiss-cpu
 pypdf
+scikit-learn
